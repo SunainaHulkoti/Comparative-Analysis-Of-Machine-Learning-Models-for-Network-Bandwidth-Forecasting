@@ -1,6 +1,6 @@
 # Infrastructure Dashboard
 
-A real-time infrastructure monitoring dashboard built with Streamlit, utilizing and comparing machine learning models for predictive analytics, anomaly detection, and packet loss detection on network bandwidth and other metrics.
+A real-time infrastructure monitoring dashboard built with Streamlit, utilizing and comparing machine learning models for predictive analytics. Additional feature include anomaly detection and packet loss detection on network bandwidth and other metrics.
 
 ## Features
 
