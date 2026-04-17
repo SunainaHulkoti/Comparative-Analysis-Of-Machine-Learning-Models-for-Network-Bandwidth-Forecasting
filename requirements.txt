@@ -1,0 +1,12 @@
+streamlit
+pymongo
+pandas
+numpy
+plotly
+prophet
+scikit-learn
+torch
+matplotlib
+python-dateutil
+joblib
+streamlit-autorefresh
